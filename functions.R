@@ -2,6 +2,8 @@
 #July 25, 2015
 #functions of gapminder
 
+#Michelle will add text here as a test to try github
+
 # functions equivalent to what we learned in high school math F(x) = ......
 
 #identify variables

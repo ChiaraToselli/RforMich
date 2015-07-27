@@ -2,6 +2,8 @@
 #July 25, 2015
 #analysis of gapminder
 
+#Michelle is adding stuff here to see if git can work
+
 #LOAD the packages FIRST 
 library(ggplot2)
 library(dplyr)
